@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SocketApp</string>
+
+    <string name="loading">Loading…</string>
+    <string name="error">Error</string>
+    <string name="network_error">Network Error</string>
+    <string name="not_connected">Network not connected to internet</string>
+    <string name="emty_body">Empty Body</string>
+    <string name="comments">Comments</string>
+    <string name="posts">Posts</string>
+    <string name="empty_list">Empty List</string>
+    <string name="an_error_occurred">An Error Occured</string>
+    <string name="input_area_keyboard_action_done">input area (keyboard action done)</string>
+</resources>
